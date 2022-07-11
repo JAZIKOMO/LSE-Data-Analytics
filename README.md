@@ -16,3 +16,5 @@ Please access LSE_DA201_assignment_notebook_Zikomo_Smith.ipynb to assess the cod
 Please access and download the PDF report LSE_DA201_assignment_report_Zikomo_Smith.pdf to see the important patterns, trends, and recommendations
 
 Please access and download the MP4 LSE_DA201_assignment_presentation_Zikomo_Smith.mp4 to see the final presentaion
+
+Please access and download the PDF of the powerpoint presentation LSE_DA201_assignment_presentation_Zikomo_Smith_PPT used in the recording
