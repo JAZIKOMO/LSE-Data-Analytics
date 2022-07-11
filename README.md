@@ -11,7 +11,7 @@ To access the LSE_DA201_assignment_presentation_Zikomo_Smith.mp4, please downloa
 
 The repository contains an analysis of COVID-19 trends across UK provinces to identify key patterns, trends, insights, and recommendations to support a government marketing camapaign.
 
-Please access LSE_DA201_assignment_notebook_Zikomo_Smith.ipynb to assess the code and analysis and contribute further to this prcess.
+Please access LSE_DA201_assignment_notebook_Zikomo_Smith.ipynb to assess the code and analysis and contribute further to this process.
 
 Please access and download the PDF report LSE_DA201_assignment_report_Zikomo_Smith.pdf to see the important patterns, trends, and recommendations
 
